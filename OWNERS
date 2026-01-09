@@ -2,4 +2,4 @@
 include platform/frameworks/base:/graphics/java/android/graphics/OWNERS
 
 adaubert@google.com #{LAST_RESORT_SUGGESTION}
-nchusid@google.com
+nchusid@google.com #{LAST_RESORT_SUGGESTION}
